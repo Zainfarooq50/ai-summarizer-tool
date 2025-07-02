@@ -16,11 +16,9 @@ This Python tool provides quick, AI-generated summaries of any text using OpenAI
 ## 🛠️ Requirements
 - Python 3.x  
 - `requests` library  
-- OpenAI API key stored in a `config.py` file like:  
-  ```python
-  api_key = "YOUR_OPENAI_API_KEY"
+
 🚀 How to Use
-Ensure your OpenAI API key is added to config.py
+Paste your OPENAI key in .env file.
 
 Run the script:
 
